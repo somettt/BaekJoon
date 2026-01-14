@@ -1,4 +1,5 @@
-import java.io.BufferedReader;
+package Class_4_5_Eseentials;
+
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;

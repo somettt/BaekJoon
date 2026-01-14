@@ -1,3 +1,5 @@
+package Class_4_5_Eseentials;
+
 import java.util.Scanner;
 
 public class FindingPrimeNumber_1978 {
