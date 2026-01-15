@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//분류: DP
+
 public class FibonacciFunc_1003 {
     //입력을 받았을 때, n까지의 0,1값을 저장할 필요가 있을듯.  (시간제한이 0.25초임)
     public static void main(String[] args) throws IOException {

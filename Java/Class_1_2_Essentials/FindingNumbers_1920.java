@@ -1,4 +1,4 @@
-package Class_4_5_Eseentials;
+package Class_1_2_Essentials;
 
 import java.util.Scanner;
 import java.util.TreeSet;
