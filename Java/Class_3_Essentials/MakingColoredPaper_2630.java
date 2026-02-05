@@ -1,4 +1,4 @@
-package Class_3;
+package Class_3_Essentials;
 
 //분류 : 분할정복 / 재귀
 

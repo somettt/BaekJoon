@@ -1,11 +1,10 @@
-package Class_3;
+package Class_3_Essentials;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-import java.util.TreeSet;
 
 //분류: 이분탐색
 

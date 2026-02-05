@@ -1,9 +1,8 @@
-package Class_3;
+package Class_3_Essentials;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashMap;
 
 // 분류: DP
 
